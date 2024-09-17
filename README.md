@@ -23,7 +23,11 @@ https://10ax.online.tableau.com/#/site/bentleymetadatadev?:isFromSaml=y
     }
   }
 }
- 
+
+
+ pip install tableau_api_lib
+
+ https://community.tableau.com/s/question/0D58b0000C6UFQmCQO/need-help-getting-the-metadata-for-data-dictionary
  
 
 
