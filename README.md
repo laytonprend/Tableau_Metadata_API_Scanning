@@ -8,6 +8,7 @@ POC to show Metadata API can be queried using Python and scanned for fields of c
   https://community.tableau.com/s/question/0D54T00000C5OjgSAF/query-the-metadata-api-from-python
 5. Site name under work email and BentleyAPIDevelopment
 Did not work so gmail and BentleyMetadataDev
+https://10ax.online.tableau.com/#/site/bentleymetadatadev?:isFromSaml=y
 
  
  
