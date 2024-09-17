@@ -10,7 +10,19 @@ POC to show Metadata API can be queried using Python and scanned for fields of c
 Did not work so gmail and BentleyMetadataDev
 https://10ax.online.tableau.com/#/site/bentleymetadatadev?:isFromSaml=y
 
- 
+ query:
+ query data_gov_data_to_columns{
+  datasources{ 
+    name
+    
+    fields {
+      name
+      #downstreamSheetsConnection {
+      #  totalCount
+      #}
+    }
+  }
+}
  
  
 
